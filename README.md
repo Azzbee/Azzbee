@@ -1,6 +1,6 @@
 # Hey, I'm Adam
 
-I'm a grad student in the AIDAMS program (AI, Data, and Management Science) at ESSEC and CentraleSupelec in Paris. I build things that sit at the intersection of AI, data science, and real-world problem solving.
+I'm an undergrad student in the AIDAMS program (AI, Data, and Management Science) at ESSEC and CentraleSupelec in Paris. I build things that sit at the intersection of AI, data science, and real-world problem solving.
 
 ## What I work on
 
