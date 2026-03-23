@@ -4,13 +4,13 @@ I'm an undergrad student in the AIDAMS program (AI, Data, and Management Science
 
 ## What I work on
 
-**AI and ML Systems** -- Email intelligence with ML classification, document forgery detection using Neural Cellular Automata, surgical tool detection with YOLOv8, and voice AI agents with real-time transcription.
+**AI and ML Systems** : Email intelligence with ML classification, document forgery detection using Neural Cellular Automata, surgical tool detection with YOLOv8, and voice AI agents with real-time transcription.
 
-**Full-Stack Applications** -- Sponsorship CRM with row-level security, interview platforms with live AI evaluation, marketing audit dashboards, and workflow automation tools.
+**Full-Stack Applications** : Sponsorship CRM with row-level security, interview platforms with live AI evaluation, marketing audit dashboards, and workflow automation tools.
 
-**Data Science and Quant** -- Statistical analysis of F1 racing data, ML-enhanced trading strategies on S&P 500, PISA education score prediction, and climate data pipelines from NASA/World Bank.
+**Data Science and Quant** : Statistical analysis of F1 racing data, ML-enhanced trading strategies on S&P 500, PISA education score prediction, and climate data pipelines from NASA/World Bank.
 
-**Mobile** -- SwiftUI habit trackers and React Native goal-setting apps with gamification and AI coaching.
+**Mobile** : SwiftUI habit trackers and React Native goal-setting apps with gamification and AI coaching.
 
 ## Featured Projects
 
